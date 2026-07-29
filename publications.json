@@ -1,0 +1,1489 @@
+[
+  {
+    "entrykey": "pei2026multi",
+    "entrytype": "article",
+    "addendum": "一区TOP, IF 9.9",
+    "publisher": "IEEE",
+    "year": "2026",
+    "pages": "1–1",
+    "number": "99",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Pei, Jiaming and Feng, Minxi and Xiu, Yue and Gulzar, Yonis and Alsisi, Rayan Hamza and Dai, Minghui",
+    "authors": [
+      "Pei, Jiaming",
+      "Feng, Minxi",
+      "Xiu, Yue",
+      "Gulzar, Yonis",
+      "Alsisi, Rayan Hamza",
+      "Dai, Minghui"
+    ],
+    "title": "A Multi-Stage Neuro-Symbolic Framework for Trustworthy Agentic Intelligence in ICE Systems"
+  },
+  {
+    "entrykey": "pei2026adaptive",
+    "entrytype": "article",
+    "addendum": "一区TOP, IF 8.7",
+    "publisher": "IEEE",
+    "year": "2026",
+    "pages": "1–14",
+    "journal": "IEEE Internet of Things Journal",
+    "author": "Pei, Jiaming and Xu, Xiaoqing and Wang, Lukun and Al-Rubaye, Saba and Zhang, Sun and Al-Dulaimi, Anwer",
+    "authors": [
+      "Pei, Jiaming",
+      "Xu, Xiaoqing",
+      "Wang, Lukun",
+      "Al-Rubaye, Saba",
+      "Zhang, Sun",
+      "Al-Dulaimi, Anwer"
+    ],
+    "title": "Adaptive Federated Learning for Future IoV-Oriented IoT End-to-End Network Planning"
+  },
+  {
+    "entrykey": "zhou2026airspy",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Zhou, Luo and Luo, Jiusong and Gong, Xueying and Pei, Jiaming and Liu, Wei and Wen, Huixiang",
+    "authors": [
+      "Zhou, Luo",
+      "Luo, Jiusong",
+      "Gong, Xueying",
+      "Pei, Jiaming",
+      "Liu, Wei",
+      "Wen, Huixiang"
+    ],
+    "title": "AirSpy: An Air-pinch Keystroke Inference Attack on Virtual Keyboards in VR Systems"
+  },
+  {
+    "entrykey": "yu2026csif",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Geoscience and Remote Sensing Letters",
+    "author": "Yu, Ruteng and Li, Mengwei and Wang, Lukun and Pei, Jiaming",
+    "authors": [
+      "Yu, Ruteng",
+      "Li, Mengwei",
+      "Wang, Lukun",
+      "Pei, Jiaming"
+    ],
+    "title": "CSIF-CD: A Unified Cross-Stage Interactive Feedback Framework for Remote Sensing Image Change Detection"
+  },
+  {
+    "entrykey": "dai2026digital",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Vehicular Technology Magazine",
+    "author": "Dai, Minghui and Wang, Yixuan and Chang, Shan and Lyu, Ling and Mumtaz, Shahid and Pei, Jiaming",
+    "authors": [
+      "Dai, Minghui",
+      "Wang, Yixuan",
+      "Chang, Shan",
+      "Lyu, Ling",
+      "Mumtaz, Shahid",
+      "Pei, Jiaming"
+    ],
+    "title": "Digital Twin-Oriented Integrated Terrestrial and Nonterrestrial Networks: New Perspectives, Challenges, and Enabling Technologies"
+  },
+  {
+    "entrykey": "pei2026distributed",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "addendum": "ESI Highly Cited Paper, CCF A, IF 16.8",
+    "year": "2026",
+    "journal": "IEEE Journal on Selected Areas in Communications",
+    "author": "Pei, Jiaming and Frascolla, Valerio and Al-Dulaimi, Anwer and Liu, Wei and Aldhyani, Theyazn H.H and Bashir, Ali Kashif and Mumtaz, Shahid",
+    "authors": [
+      "Pei, Jiaming",
+      "Frascolla, Valerio",
+      "Al-Dulaimi, Anwer",
+      "Liu, Wei",
+      "Aldhyani, Theyazn H.H",
+      "Bashir, Ali Kashif",
+      "Mumtaz, Shahid"
+    ],
+    "title": "Distributed Large Models Training Optimization with Real-Time Wireless Channel Feedback"
+  },
+  {
+    "entrykey": "dai2026edge",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Communications Standards Magazine",
+    "author": "Dai, Minghui and Li, Xin and Song, Tianlei and Jiang, Jin and Pei, Jiaming and Farouk, Ahmed",
+    "authors": [
+      "Dai, Minghui",
+      "Li, Xin",
+      "Song, Tianlei",
+      "Jiang, Jin",
+      "Pei, Jiaming",
+      "Farouk, Ahmed"
+    ],
+    "title": "Edge Intelligence-Driven Low-Altitude IoT via Digital Twin: Requirements, Challenges and Solutions"
+  },
+  {
+    "entrykey": "pei2026explainable",
+    "entrytype": "article",
+    "addendum": "二区TOP, IF 6.7",
+    "publisher": "Elsevier",
+    "year": "2026",
+    "pages": "134236",
+    "journal": "Neurocomputing",
+    "author": "Pei, Jiaming and Feng, Minxi",
+    "authors": [
+      "Pei, Jiaming",
+      "Feng, Minxi"
+    ],
+    "title": "Explainable federated clustering via visual embedding and boundary interpretation"
+  },
+  {
+    "entrykey": "pei2026federated",
+    "entrytype": "misc",
+    "publisher": "Springer Nature",
+    "year": "2026",
+    "author": "Pei, Jiaming and Wang, Lukun and Dai, Minghui",
+    "authors": [
+      "Pei, Jiaming",
+      "Wang, Lukun",
+      "Dai, Minghui"
+    ],
+    "title": "Federated Learning for Smart Mobility: Towards Secure, Efficient, and Sustainable Transportation System"
+  },
+  {
+    "entrykey": "xue2026fedsda",
+    "entrytype": "inproceedings",
+    "year": "2026",
+    "booktitle": "IEEE Global Communications Conference (GLOBECOM), 2025",
+    "author": "Xue, Rubing and Wang, Lukun and Mumtaz, Shahid and Pei, Jiaming",
+    "authors": [
+      "Xue, Rubing",
+      "Wang, Lukun",
+      "Mumtaz, Shahid",
+      "Pei, Jiaming"
+    ],
+    "title": "FedSDA: A Multi-Domain Federated Learning Method Based on Similarity Dynamic Aggregation"
+  },
+  {
+    "entrykey": "pei2026generative",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Journal of Selected Areas in Sensors",
+    "author": "Pei, Jiaming and Feng, Minxi and Muthukumar, Pounambal and Parimala, Venkata Krishna and Dai, Minghui",
+    "authors": [
+      "Pei, Jiaming",
+      "Feng, Minxi",
+      "Muthukumar, Pounambal",
+      "Parimala, Venkata Krishna",
+      "Dai, Minghui"
+    ],
+    "title": "Generative AI-Native Edge Sensors: Collaborative Data Reconstruction via Lightweight Federated Learning"
+  },
+  {
+    "entrykey": "yu2026gsag",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2026",
+    "pages": "41452–41454",
+    "number": "48",
+    "volume": "40",
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "author": "Yu, Ruteng and Wang, Lukun and Pei, Jiaming",
+    "authors": [
+      "Yu, Ruteng",
+      "Wang, Lukun",
+      "Pei, Jiaming"
+    ],
+    "title": "GSAG-CDGAN: A Generalizable Small-Sample Attention-Guided GAN for Remote Sensing Change Detection (Student Abstract)"
+  },
+  {
+    "entrykey": "feng2026intent2",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "addendum": "一区TOP, IF 9.9",
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Feng, Minxi and Alzaben, Nada and Gulzar, Yonis and Pei, Jiaming",
+    "authors": [
+      "Feng, Minxi",
+      "Alzaben, Nada",
+      "Gulzar, Yonis",
+      "Pei, Jiaming"
+    ],
+    "title": "Intent-Based Multi-Agent Allocation with Nature-Inspired Online Algorithm"
+  },
+  {
+    "entrykey": "feng2026intent1",
+    "entrytype": "article",
+    "addendum": "二区, IF 5.7",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Transactions on Network and Service Management",
+    "author": "Feng, Minxi and Wu, Haotian and Mumtaz, Shahid and Pei, Jiaming",
+    "authors": [
+      "Feng, Minxi",
+      "Wu, Haotian",
+      "Mumtaz, Shahid",
+      "Pei, Jiaming"
+    ],
+    "title": "Intent-based network in online resource allocation with machine-learned prediction"
+  },
+  {
+    "entrykey": "wen2026magic",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Journal of Biomedical and Health Informatics",
+    "author": "Wen, Huixiang and Chang, Shan and Zhou, Luo and Liu, Wei and Pei, Jiaming and Jiang, Shengqun",
+    "authors": [
+      "Wen, Huixiang",
+      "Chang, Shan",
+      "Zhou, Luo",
+      "Liu, Wei",
+      "Pei, Jiaming",
+      "Jiang, Shengqun"
+    ],
+    "title": "MAGIC: Multi-Grained Conditional Diffusion for High-Fidelity PPG-to-ECG Translation"
+  },
+  {
+    "entrykey": "liu2026privacy",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2026",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Liu, Wei and Wang, Xuhan and Wang, Lihui and Dahmani, Nadia and Pei, Jiaming",
+    "authors": [
+      "Liu, Wei",
+      "Wang, Xuhan",
+      "Wang, Lihui",
+      "Dahmani, Nadia",
+      "Pei, Jiaming"
+    ],
+    "title": "Privacy-Preserving Federated Early Warning of Memory Poisoning for Consumer AI Agents"
+  },
+  {
+    "entrykey": "pei2026resource",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2026",
+    "pages": "181–189",
+    "volume": "4",
+    "journal": "IEEE Transactions on Industrial Cyber-Physical Systems",
+    "author": "Pei, Jiaming and Feng, Minxi and Al-Dulaimi, Anwer",
+    "authors": [
+      "Pei, Jiaming",
+      "Feng, Minxi",
+      "Al-Dulaimi, Anwer"
+    ],
+    "title": "Resource Allocation Using Reinforcement Learning in Industrial Cyber-Physical Systems"
+  },
+  {
+    "entrykey": "wu2026swarm",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "IEEE",
+    "year": "2026",
+    "pages": "1–8",
+    "journal": "IEEE Communications Standards Magazine",
+    "author": "Wu, Haotian and Zhang, Jiwei and Feng, Minxi and Dai, Minghui and Mohiuddin, Samra and Kashif Bashir, Ali and Mumtaz, Shahid and Pei, Jiaming",
+    "authors": [
+      "Wu, Haotian",
+      "Zhang, Jiwei",
+      "Feng, Minxi",
+      "Dai, Minghui",
+      "Mohiuddin, Samra",
+      "Kashif Bashir, Ali",
+      "Mumtaz, Shahid",
+      "Pei, Jiaming"
+    ],
+    "title": "Swarm Smarts: Enabling Real-Time Self-Healing With TinyML at the Edge"
+  },
+  {
+    "entrykey": "pei2026towards",
+    "entrytype": "phdthesis",
+    "school": "The University of Sydney",
+    "year": "2026",
+    "author": "Pei, Jiaming",
+    "authors": [
+      "Pei, Jiaming"
+    ],
+    "title": "Towards High Efficient Federated Learning Systems"
+  },
+  {
+    "entrykey": "xu2025high",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2025",
+    "pages": "29541–29542",
+    "number": "28",
+    "volume": "39",
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "author": "Xu, Xiaoqing and Pei, Jiaming and Wang, Lukun",
+    "authors": [
+      "Xu, Xiaoqing",
+      "Pei, Jiaming",
+      "Wang, Lukun"
+    ],
+    "title": "A high-efficiency federated learning method using complementary pruning for D2D communication (student abstract)"
+  },
+  {
+    "entrykey": "yu2025adaptive",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Transactions on Industrial Informatics",
+    "author": "Yu, Zhi and Pei, Jiaming and Zhu, Mingpeng",
+    "authors": [
+      "Yu, Zhi",
+      "Pei, Jiaming",
+      "Zhu, Mingpeng"
+    ],
+    "title": "Adaptive Multi-Scale Window Segmentation and Attention Interaction Transformer for Intrusion Detection in Industrial Internet of Things"
+  },
+  {
+    "entrykey": "pei2025advancing",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "pages": "51–58",
+    "number": "2",
+    "volume": "11",
+    "journal": "IEEE Systems, Man, and Cybernetics Magazine",
+    "author": "Pei, Jiaming and Wang, Lukun and Awan, Nabeela and Alturki, Ryan",
+    "authors": [
+      "Pei, Jiaming",
+      "Wang, Lukun",
+      "Awan, Nabeela",
+      "Alturki, Ryan"
+    ],
+    "title": "Advancing federated learning privacy with quantum communication techniques: a robust scalable framework"
+  },
+  {
+    "entrykey": "wang2025bi",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "author": "Wang, Lukun and Sun, Qihang and Pei, Jiaming and Khan, Muhammad Attique and Al Dabel, Maryam M and Al-Otaibi, Yasser D and Bashir, Ali Kashif",
+    "authors": [
+      "Wang, Lukun",
+      "Sun, Qihang",
+      "Pei, Jiaming",
+      "Khan, Muhammad Attique",
+      "Al Dabel, Maryam M",
+      "Al-Otaibi, Yasser D",
+      "Bashir, Ali Kashif"
+    ],
+    "title": "Bi-temporal remote sensing change detection with state space models"
+  },
+  {
+    "entrykey": "wang2025communication",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper, 一区TOP, IF 8",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Transactions on Cognitive Communications and Networking",
+    "author": "Wang, Lukun and Xu, Xiaoqing and Pei, Jiaming",
+    "authors": [
+      "Wang, Lukun",
+      "Xu, Xiaoqing",
+      "Pei, Jiaming"
+    ],
+    "title": "Communication-Efficient Federated Learning via Dynamic Sparsity: An Adaptive Pruning Ratio Based on Weight Importance"
+  },
+  {
+    "entrykey": "zou2025efficient",
+    "entrytype": "article",
+    "publisher": "Elsevier",
+    "year": "2025",
+    "pages": "107644",
+    "volume": "166",
+    "journal": "Future Generation Computer Systems",
+    "author": "Zou, Weitao and Li, Wei and Wang, Zeyu and Pei, Jiaming and Lou, Tongtong and Chen, Guangsheng and Jing, Weipeng and Zomaya, Albert Y",
+    "authors": [
+      "Zou, Weitao",
+      "Li, Wei",
+      "Wang, Zeyu",
+      "Pei, Jiaming",
+      "Lou, Tongtong",
+      "Chen, Guangsheng",
+      "Jing, Weipeng",
+      "Zomaya, Albert Y"
+    ],
+    "title": "Efficient distributed matrix for resolving computational intensity in remote sensing"
+  },
+  {
+    "entrykey": "sun2025efficient",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2025",
+    "pages": "29504–29505",
+    "number": "28",
+    "volume": "39",
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "author": "Sun, Huifang and Pei, Jiaming and Wang, Lukun",
+    "authors": [
+      "Sun, Huifang",
+      "Pei, Jiaming",
+      "Wang, Lukun"
+    ],
+    "title": "Efficient federated learning via clients-to-server knowledge distillation (student abstract)"
+  },
+  {
+    "entrykey": "liu2025endmember",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "author": "Liu, Baisen and Hou, Longfei and Zheng, Weiming and Alturki, Nazik and Baili, Jamel and Kong, Weili and Pei, Jiaming",
+    "authors": [
+      "Liu, Baisen",
+      "Hou, Longfei",
+      "Zheng, Weiming",
+      "Alturki, Nazik",
+      "Baili, Jamel",
+      "Kong, Weili",
+      "Pei, Jiaming"
+    ],
+    "title": "Endmember-Free Hyperspectral Unmixing"
+  },
+  {
+    "entrykey": "pei2025f3",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "addendum": "ESI Highly Cited Paper, 一区TOP, IF 8",
+    "publisher": "Elsevier",
+    "year": "2025",
+    "pages": "113392",
+    "volume": "316",
+    "journal": "Knowledge-Based Systems",
+    "author": "Pei, Jiaming",
+    "authors": [
+      "Pei, Jiaming"
+    ],
+    "title": "F3: Fair federated learning framework with adaptive regularization"
+  },
+  {
+    "entrykey": "yu2025feature",
+    "entrytype": "article",
+    "publisher": "Pergamon",
+    "year": "2025",
+    "pages": "107394",
+    "volume": "187",
+    "journal": "Neural Networks",
+    "author": "Yu, Zhi and Huang, Zhiyong and Hou, Mingyang and Pei, Jiaming and Yan, Yan and Liu, Yushi and Sun, Daming",
+    "authors": [
+      "Yu, Zhi",
+      "Huang, Zhiyong",
+      "Hou, Mingyang",
+      "Pei, Jiaming",
+      "Yan, Yan",
+      "Liu, Yushi",
+      "Sun, Daming"
+    ],
+    "title": "Feature-Tuning Hierarchical Transformer via token communication and sample aggregation constraint for object re-identification"
+  },
+  {
+    "entrykey": "wu2025fedcw",
+    "entrytype": "article",
+    "year": "2025",
+    "journal": "Computers, Materials & Continua",
+    "author": "Wu, Haotian and Pei, Jiaming and Li, Jinhai",
+    "authors": [
+      "Wu, Haotian",
+      "Pei, Jiaming",
+      "Li, Jinhai"
+    ],
+    "title": "FedCW: Client Selection with Adaptive Weight in Heterogeneous Federated Learning"
+  },
+  {
+    "entrykey": "pei2025federated",
+    "entrytype": "article",
+    "addendum": "一区TOP, IF 9.1",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Pei, Jiaming and Omar, Marwan and Al Dabel, Maryam Mohamed and Mumtaz, Shahid and Liu, Wei",
+    "authors": [
+      "Pei, Jiaming",
+      "Omar, Marwan",
+      "Al Dabel, Maryam Mohamed",
+      "Mumtaz, Shahid",
+      "Liu, Wei"
+    ],
+    "title": "Federated few-shot learning with intelligent transportation cross-regional adaptation"
+  },
+  {
+    "entrykey": "sun2025fedmkd",
+    "entrytype": "article",
+    "publisher": "Springer US New York",
+    "year": "2025",
+    "pages": "638",
+    "number": "10",
+    "volume": "28",
+    "journal": "Cluster Computing",
+    "author": "Sun, Huifang and Pei, Jiaming and Xu, Xiaoqing and Xue, Rubing and Zhao, Lingyun and Sun, Qihang and Li, Longfei and Wang, Lukun",
+    "authors": [
+      "Sun, Huifang",
+      "Pei, Jiaming",
+      "Xu, Xiaoqing",
+      "Xue, Rubing",
+      "Zhao, Lingyun",
+      "Sun, Qihang",
+      "Li, Longfei",
+      "Wang, Lukun"
+    ],
+    "title": "Fedmkd: multi-teacher knowledge distillation for communication-efficient federated learning"
+  },
+  {
+    "entrykey": "pei2025fl",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Network",
+    "author": "Pei, Jiaming and Dai, Minghui and Venkatesha Prasad, R. R. and Alghamdi, Norah Saleh and Al-Otaibi, Yasser D. and Bashir, Ali Kashif",
+    "authors": [
+      "Pei, Jiaming",
+      "Dai, Minghui",
+      "Venkatesha Prasad, R. R.",
+      "Alghamdi, Norah Saleh",
+      "Al-Otaibi, Yasser D.",
+      "Bashir, Ali Kashif"
+    ],
+    "title": "FL Meets LLM: A Hybrid Security Framework for the Internet of Energy"
+  },
+  {
+    "entrykey": "dai2025integrated",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Network",
+    "author": "Dai, Minghui and Li, Xin and Chang, Shan and Al-Dulaimi, Anwer and Mumtaz, Shahid and Pei, Jiaming",
+    "authors": [
+      "Dai, Minghui",
+      "Li, Xin",
+      "Chang, Shan",
+      "Al-Dulaimi, Anwer",
+      "Mumtaz, Shahid",
+      "Pei, Jiaming"
+    ],
+    "title": "Integrated AI and Metaverse Rendering for 6G Vehicular Networks: New Perspectives and Technical Solutions"
+  },
+  {
+    "entrykey": "feng2025intent",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "addendum": "一区TOP, IF 9.9",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Feng, Minxi and Aldhyani, Theyazn HH and Alsisi, Rayan Hamza and Alshehri, Asma Hassan and Pei, Jiaming",
+    "authors": [
+      "Feng, Minxi",
+      "Aldhyani, Theyazn HH",
+      "Alsisi, Rayan Hamza",
+      "Alshehri, Asma Hassan",
+      "Pei, Jiaming"
+    ],
+    "title": "Intent-Driven Online Privacy Budget Allocation Under Adversarial AI Attacks"
+  },
+  {
+    "entrykey": "yu2025inter",
+    "entrytype": "article",
+    "publisher": "Elsevier",
+    "year": "2025",
+    "pages": "112961",
+    "volume": "174",
+    "journal": "Applied Soft Computing",
+    "author": "Yu, Zhi and Huang, Zhiyong and Hou, Mingyang and Pei, Jiaming and Sun, Daming",
+    "authors": [
+      "Yu, Zhi",
+      "Huang, Zhiyong",
+      "Hou, Mingyang",
+      "Pei, Jiaming",
+      "Sun, Daming"
+    ],
+    "title": "Inter-block ladder-style transformer model with multi-subspace feature adjustment for object re-identification"
+  },
+  {
+    "entrykey": "li2025latency",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Transactions on Vehicular Technology",
+    "author": "Li, Xin and Dai, Minghui and Chang, Shan and Zhang, Liang and Wang, Tianshun and Pei, Jiaming and Mumtaz, Shahid",
+    "authors": [
+      "Li, Xin",
+      "Dai, Minghui",
+      "Chang, Shan",
+      "Zhang, Liang",
+      "Wang, Tianshun",
+      "Pei, Jiaming",
+      "Mumtaz, Shahid"
+    ],
+    "title": "Latency-Aware Metaverse Rendering in Vehicular Edge Networks: A Secrecy-Oriented Resource Allocation Approach"
+  },
+  {
+    "entrykey": "feng2025local",
+    "entrytype": "article",
+    "publisher": "Elsevier",
+    "year": "2025",
+    "journal": "Computer Vision and Image Understanding",
+    "author": "Feng, Wancheng and Liu, Yingchao and Pei, Jiaming and Cheng, Guangliang and Wang, Lukun",
+    "authors": [
+      "Feng, Wancheng",
+      "Liu, Yingchao",
+      "Pei, Jiaming",
+      "Cheng, Guangliang",
+      "Wang, Lukun"
+    ],
+    "title": "Local Consistency Guidance: Personalized stylization method of face video"
+  },
+  {
+    "entrykey": "pei2025neuro",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper, 一区TOP, IF 9.1",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Pei, Jiaming and Li, Jinhai and Song, Zhenyu and Al Dabel, Maryam Mohamed and Alenazi, Mohammed JF and Zhang, Sun and Bashir, Ali Kashif",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Jinhai",
+      "Song, Zhenyu",
+      "Al Dabel, Maryam Mohamed",
+      "Alenazi, Mohammed JF",
+      "Zhang, Sun",
+      "Bashir, Ali Kashif"
+    ],
+    "title": "Neuro-vae-symbolic dynamic traffic management"
+  },
+  {
+    "entrykey": "wen2025st",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Internet of Things Journal",
+    "author": "Wen, Huixiang and Wu, Xuan and Ma, Chaojie and Shi, Bo and Pei, Jiaming and Bashir, Ali Kashif and Liu, Wei",
+    "authors": [
+      "Wen, Huixiang",
+      "Wu, Xuan",
+      "Ma, Chaojie",
+      "Shi, Bo",
+      "Pei, Jiaming",
+      "Bashir, Ali Kashif",
+      "Liu, Wei"
+    ],
+    "title": "ST-AuthNet: A spatiotemporal attention-driven lightweight ECG biometric authentication system"
+  },
+  {
+    "entrykey": "pei2025task",
+    "entrytype": "article",
+    "addendum": "二区TOP, IF 8.3",
+    "publisher": "IEEE",
+    "year": "2025",
+    "journal": "IEEE Communication Magazine",
+    "author": "Pei, Jiaming and Dai, Minghui and Anwer, Al-Dulaimi and Saba, Al-Rubaye and Mumtaz, Shahid",
+    "authors": [
+      "Pei, Jiaming",
+      "Dai, Minghui",
+      "Anwer, Al-Dulaimi",
+      "Saba, Al-Rubaye",
+      "Mumtaz, Shahid"
+    ],
+    "title": "Task-Oriented Communication and Optimization Framework for 6G Non-Terrestrial Networks: Challenges and Solutions"
+  },
+  {
+    "entrykey": "pei2024review",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper, 一区TOP, IF 9.9",
+    "publisher": "IEEE",
+    "year": "2024",
+    "pages": "5983–5999",
+    "number": "3",
+    "volume": "70",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Pei, Jiaming and Liu, Wenxuan and Li, Jinhai and Wang, Lukun and Liu, Chao",
+    "authors": [
+      "Pei, Jiaming",
+      "Liu, Wenxuan",
+      "Li, Jinhai",
+      "Wang, Lukun",
+      "Liu, Chao"
+    ],
+    "title": "A review of federated learning methods in heterogeneous scenarios"
+  },
+  {
+    "entrykey": "kong2024shared",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2024",
+    "booktitle": "The Second Tiny Papers Track at ICLR 2024",
+    "author": "Kong, Weili and Liu, Baisen and Bi, Xiaojun and Pei, Jiaming",
+    "authors": [
+      "Kong, Weili",
+      "Liu, Baisen",
+      "Bi, Xiaojun",
+      "Pei, Jiaming"
+    ],
+    "title": "A Shared Encoder for Multi-Source Hyperspectral Images"
+  },
+  {
+    "entrykey": "pei2024dual",
+    "entrytype": "article",
+    "addendum": "一区TOP, IF 9.1",
+    "publisher": "IEEE",
+    "year": "2024",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Pei, Jiaming and Li, Wei",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Wei"
+    ],
+    "title": "Dual model pruning enables efficient federated learning in intelligent transportation systems"
+  },
+  {
+    "entrykey": "pei2024entropy",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2024",
+    "booktitle": "The Second Tiny Papers Track at ICLR 2024",
+    "author": "Pei, Jiaming and Wu, Haotian",
+    "authors": [
+      "Pei, Jiaming",
+      "Wu, Haotian"
+    ],
+    "title": "Entropy-aided prompt Federated learning"
+  },
+  {
+    "entrykey": "pei2024federated",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2024",
+    "pages": "35–41",
+    "number": "2",
+    "volume": "14",
+    "journal": "IEEE Consumer Electronics Magazine",
+    "author": "Pei, Jiaming and Feng, John",
+    "authors": [
+      "Pei, Jiaming",
+      "Feng, John"
+    ],
+    "title": "Federated Cognitive Learning for Next Generation Recommendation Systems"
+  },
+  {
+    "entrykey": "xue2024federated",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2024",
+    "booktitle": "The Second Tiny Papers Track at ICLR 2024",
+    "author": "Xue, Rubing and Pei, Jiaming and Wang, Lukun",
+    "authors": [
+      "Xue, Rubing",
+      "Pei, Jiaming",
+      "Wang, Lukun"
+    ],
+    "title": "Federated Learning on Small Batch Sizes via Batch Renormalization"
+  },
+  {
+    "entrykey": "pei2024routine",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2024",
+    "journal": "IEEE Transactions on Artificial Intelligence",
+    "author": "Pei, Jiaming and Li, Wei and Mumtaz, Shahid",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Wei",
+      "Mumtaz, Shahid"
+    ],
+    "title": "From routine to reflection: Pruning neural networks in communication-efficient federated learning"
+  },
+  {
+    "entrykey": "pei2024knowledge",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2024",
+    "pages": "23621–23622",
+    "number": "21",
+    "volume": "38",
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "author": "Pei, Jiaming and Li, Wei and Wang, Lukun",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Wei",
+      "Wang, Lukun"
+    ],
+    "title": "Knowledge transfer via compact model in federated learning (student abstract)"
+  },
+  {
+    "entrykey": "feng2024local",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2024",
+    "pages": "23486–23487",
+    "number": "21",
+    "volume": "38",
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "author": "Feng, Wancheng and Liu, Yingchao and Pei, Jiaming and Liu, Wenxuan and Tian, Chunpeng and Wang, Lukun",
+    "authors": [
+      "Feng, Wancheng",
+      "Liu, Yingchao",
+      "Pei, Jiaming",
+      "Liu, Wenxuan",
+      "Tian, Chunpeng",
+      "Wang, Lukun"
+    ],
+    "title": "Local Consistency Guidance: Personalized Stylization Method of Face Video (Student Abstract)"
+  },
+  {
+    "entrykey": "yu2024representation",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2024",
+    "pages": "3633–3648",
+    "number": "4",
+    "volume": "35",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "author": "Yu, Zhi and Huang, Zhiyong and Hou, Mingyang and Pei, Jiaming and Yan, Yan and Liu, Yushi and Sun, Daming",
+    "authors": [
+      "Yu, Zhi",
+      "Huang, Zhiyong",
+      "Hou, Mingyang",
+      "Pei, Jiaming",
+      "Yan, Yan",
+      "Liu, Yushi",
+      "Sun, Daming"
+    ],
+    "title": "Representation selective coupling via token sparsification for multi-spectral object re-identification"
+  },
+  {
+    "entrykey": "pei2024toward",
+    "entrytype": "article",
+    "addendum": "一区TOP, IF 9.9",
+    "publisher": "IEEE",
+    "year": "2024",
+    "pages": "5719–5728",
+    "number": "3",
+    "volume": "70",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Pei, Jiaming and Xue, Rubing and Liu, Chao and Wang, Lukun",
+    "authors": [
+      "Pei, Jiaming",
+      "Xue, Rubing",
+      "Liu, Chao",
+      "Wang, Lukun"
+    ],
+    "title": "Toward byzantine-resilient secure ai: a federated learning communication framework for 6g consumer electronics"
+  },
+  {
+    "entrykey": "pei2024unveiling",
+    "entrytype": "article",
+    "addendum": "一区TOP, IF 9.1",
+    "publisher": "IEEE",
+    "year": "2024",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Pei, Jiaming and Li, Wei",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Wei"
+    ],
+    "title": "Unveiling the effects of slightly skewed labels on traffic data analysis"
+  },
+  {
+    "entrykey": "wang20233d",
+    "entrytype": "article",
+    "publisher": "Elsevier",
+    "year": "2023",
+    "pages": "126646",
+    "volume": "556",
+    "journal": "Neurocomputing",
+    "author": "Wang, Lukun and Feng, Wancheng and Tian, Chunpeng and Chen, Liquan and Pei, Jiaming",
+    "authors": [
+      "Wang, Lukun",
+      "Feng, Wancheng",
+      "Tian, Chunpeng",
+      "Chen, Liquan",
+      "Pei, Jiaming"
+    ],
+    "title": "3D-unified spatial-temporal graph for group activity recognition"
+  },
+  {
+    "entrykey": "shi2023chinese",
+    "entrytype": "article",
+    "publisher": "ACM",
+    "year": "2023",
+    "journal": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "author": "Shi, Yaning and Wang, Lukun and Tian, Chunpeng and Wang, Rujia and Pei, Jiaming and Hussian, Amir and Bashir, Ali Kashif",
+    "authors": [
+      "Shi, Yaning",
+      "Wang, Lukun",
+      "Tian, Chunpeng",
+      "Wang, Rujia",
+      "Pei, Jiaming",
+      "Hussian, Amir",
+      "Bashir, Ali Kashif"
+    ],
+    "title": "A Chinese Short Text Classification Method for Tax Audit Reports based on Word Importance and Syntactic Enhancement BERT"
+  },
+  {
+    "entrykey": "wang2023dc",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "1310–1317",
+    "number": "1",
+    "volume": "70",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Wang, Lukun and Sun, Pu and Liu, Yunjie and Pei, Jiaming and Shi, Yaning and Liu, Wenxuan and Tian, Chunpeng",
+    "authors": [
+      "Wang, Lukun",
+      "Sun, Pu",
+      "Liu, Yunjie",
+      "Pei, Jiaming",
+      "Shi, Yaning",
+      "Liu, Wenxuan",
+      "Tian, Chunpeng"
+    ],
+    "title": "A DC arc fault sensor with leftover gated recurrent neural network in consumer electronics"
+  },
+  {
+    "entrykey": "kong2023scalable",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2023",
+    "booktitle": "International Conference on Learning Representations",
+    "author": "Kong, Weili and Qi, Lin and Liu, Baisen and Pei, Jiaming",
+    "authors": [
+      "Kong, Weili",
+      "Qi, Lin",
+      "Liu, Baisen",
+      "Pei, Jiaming"
+    ],
+    "title": "A Scalable Pretrained Model for Hyperspectral Image Classification"
+  },
+  {
+    "entrykey": "pei2023clustered",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2023",
+    "booktitle": "International Conference on Learning Representations",
+    "author": "Pei, Jiaming and Li, Wei",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Wei"
+    ],
+    "title": "Clustered Federated Learning with Slightly Skewed Labels"
+  },
+  {
+    "entrykey": "li2023drone",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "organization": "IEEE",
+    "year": "2023",
+    "pages": "1–7",
+    "booktitle": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+    "author": "Li, Hui and Ge, Tongao and Ma, Ruidi and Guo, Ying and Zhao, Guowei and Pei, Jiaming and Wang, Lukun and Xu, Lingwei",
+    "authors": [
+      "Li, Hui",
+      "Ge, Tongao",
+      "Ma, Ruidi",
+      "Guo, Ying",
+      "Zhao, Guowei",
+      "Pei, Jiaming",
+      "Wang, Lukun",
+      "Xu, Lingwei"
+    ],
+    "title": "Drone-Assisted Behavior Recognition via Key Frame Extraction for Efficient 5G Communication"
+  },
+  {
+    "entrykey": "li2023eco",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "7802–7812",
+    "number": "7",
+    "volume": "24",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Li, Shike and Li, Jianbin and Pei, Jiaming and Wu, Sixing and Wang, Shen and Cheng, Long",
+    "authors": [
+      "Li, Shike",
+      "Li, Jianbin",
+      "Pei, Jiaming",
+      "Wu, Sixing",
+      "Wang, Shen",
+      "Cheng, Long"
+    ],
+    "title": "Eco-CSAS: A safe and eco-friendly speed advisory system for autonomous vehicle platoon using consortium blockchain"
+  },
+  {
+    "entrykey": "pei2023fed",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "108–112",
+    "number": "1",
+    "volume": "6",
+    "journal": "IEEE Internet of Things Magazine",
+    "author": "Pei, Jiaming and Liu, Wenxuan and Wang, Lukun and Liu, Chao and Bashir, Ali Kashif and Wang, Yue",
+    "authors": [
+      "Pei, Jiaming",
+      "Liu, Wenxuan",
+      "Wang, Lukun",
+      "Liu, Chao",
+      "Bashir, Ali Kashif",
+      "Wang, Yue"
+    ],
+    "title": "Fed-IoUT: Opportunities and challenges of federated learning in the Internet of Underwater Things"
+  },
+  {
+    "entrykey": "pei2023federated",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "94–100",
+    "number": "1",
+    "volume": "7",
+    "journal": "IEEE Communications Standards Magazine",
+    "author": "Pei, Jiaming and Li, Shike and Yu, Zhi and Ho, Laishan and Liu, Wenxuan and Wang, Lukun",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Shike",
+      "Yu, Zhi",
+      "Ho, Laishan",
+      "Liu, Wenxuan",
+      "Wang, Lukun"
+    ],
+    "title": "Federated learning encounters 6g wireless communication in the scenario of internet of things"
+  },
+  {
+    "entrykey": "xia2023fedme",
+    "entrytype": "article",
+    "addendum": "CCF A, IF 16.8",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "3573–3588",
+    "number": "11",
+    "volume": "41",
+    "journal": "IEEE Journal on Selected Areas in Communications",
+    "author": "Pei, Jiaming and Xu, Shuo and Zhang, Rui and Yu, Zhi and Zou, Weitao and Wang, Lukun and Liu, Chao",
+    "authors": [
+      "Pei, Jiaming",
+      "Xu, Shuo",
+      "Zhang, Rui",
+      "Yu, Zhi",
+      "Zou, Weitao",
+      "Wang, Lukun",
+      "Liu, Chao"
+    ],
+    "title": "Fedme 2: Memory evaluation & erase promoting federated unlearning in dtmn"
+  },
+  {
+    "entrykey": "kong2023instructional",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "1348–1362",
+    "volume": "17",
+    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "author": "Kong, Weili and Liu, Baisen and Bi, Xiaojun and Pei, Jiaming and Chen, Zheng",
+    "authors": [
+      "Kong, Weili",
+      "Liu, Baisen",
+      "Bi, Xiaojun",
+      "Pei, Jiaming",
+      "Chen, Zheng"
+    ],
+    "title": "Instructional mask autoencoder: A scalable learner for hyperspectral image classification"
+  },
+  {
+    "entrykey": "zhang2023rf",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "9056–9071",
+    "number": "5",
+    "volume": "11",
+    "journal": "IEEE Internet of Things Journal",
+    "author": "Zhang, Haotian and Wang, Lukun and Pei, Jiaming and Lyu, Feng and Li, Minglu and Liu, Chao",
+    "authors": [
+      "Zhang, Haotian",
+      "Wang, Lukun",
+      "Pei, Jiaming",
+      "Lyu, Feng",
+      "Li, Minglu",
+      "Liu, Chao"
+    ],
+    "title": "RF-sign: Position-independent sign language recognition using passive RFID tags"
+  },
+  {
+    "entrykey": "yu2023semantic",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2023",
+    "pages": "2803–2813",
+    "number": "3",
+    "volume": "25",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Yu, Zhi and Huang, Zhiyong and Pei, Jiaming and Tahsin, Lamia and Sun, Daming",
+    "authors": [
+      "Yu, Zhi",
+      "Huang, Zhiyong",
+      "Pei, Jiaming",
+      "Tahsin, Lamia",
+      "Sun, Daming"
+    ],
+    "title": "Semantic-oriented feature coupling transformer for vehicle re-identification in intelligent transportation system"
+  },
+  {
+    "entrykey": "liu2023will",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2023",
+    "booktitle": "International Conference on Learning Representations",
+    "author": "Liu, Wenxuan and Pei, Jiaming and Wang, Lukun",
+    "authors": [
+      "Liu, Wenxuan",
+      "Pei, Jiaming",
+      "Wang, Lukun"
+    ],
+    "title": "When will federated learning change from generalization to personalization?"
+  },
+  {
+    "entrykey": "li2022study",
+    "entrytype": "article",
+    "publisher": "MDPI",
+    "year": "2022",
+    "pages": "9819",
+    "number": "16",
+    "volume": "19",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "author": "Li, Jinhai and Ma, Yunlei and Xu, Xinglong and Pei, Jiaming and He, Youshi",
+    "authors": [
+      "Li, Jinhai",
+      "Ma, Yunlei",
+      "Xu, Xinglong",
+      "Pei, Jiaming",
+      "He, Youshi"
+    ],
+    "title": "A study on epidemic information screening, prevention and control of public opinion based on health and medical big data: a case study of COVID-19"
+  },
+  {
+    "entrykey": "jan2022analysis",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2022",
+    "pages": "183–193",
+    "number": "2",
+    "volume": "69",
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "author": "Jan, Naeem and Gwak, Jeonghwan and Pei, Jiaming and Maqsood, Rabia and Nasir, Abdul",
+    "authors": [
+      "Jan, Naeem",
+      "Gwak, Jeonghwan",
+      "Pei, Jiaming",
+      "Maqsood, Rabia",
+      "Nasir, Abdul"
+    ],
+    "title": "Analysis of networks and digital systems by using the novel technique based on complex fuzzy soft information"
+  },
+  {
+    "entrykey": "li2022bsas",
+    "entrytype": "article",
+    "publisher": "IEEE",
+    "year": "2022",
+    "pages": "11421–11430",
+    "number": "11",
+    "volume": "71",
+    "journal": "IEEE Transactions on Vehicular Technology",
+    "author": "Li, Jianbin and Li, Shike and Cheng, Long and Liu, Qingzhi and Pei, Jiaming and Wang, Shen",
+    "authors": [
+      "Li, Jianbin",
+      "Li, Shike",
+      "Cheng, Long",
+      "Liu, Qingzhi",
+      "Pei, Jiaming",
+      "Wang, Shen"
+    ],
+    "title": "BSAS: a blockchain-based trustworthy and privacy-preserving speed advisory system"
+  },
+  {
+    "entrykey": "pei2022clustered",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2022",
+    "pages": "79–84",
+    "booktitle": "Proceedings of the 5th International ACM Mobicom Workshop on Drone Assisted Wireless Communications for 5G and Beyond",
+    "author": "Pei, Jiaming and Yu, Zhi and Liu, Wenxuan and Kong, Weili and Zhang, Jiwei and Wang, Lukun",
+    "authors": [
+      "Pei, Jiaming",
+      "Yu, Zhi",
+      "Liu, Wenxuan",
+      "Kong, Weili",
+      "Zhang, Jiwei",
+      "Wang, Lukun"
+    ],
+    "title": "Clustered federated learning multi-classifier for non-IID scenario in drone devices"
+  },
+  {
+    "entrykey": "pei2022ecnn",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper",
+    "publisher": "Springer London London",
+    "year": "2022",
+    "pages": "12331–12343",
+    "number": "15",
+    "volume": "34",
+    "journal": "Neural Computing and Applications",
+    "author": "Pei, Jiaming and Zhong, Kaiyang and Li, Jinhai and Xu, Jiyuan and Wang, Xinyi",
+    "authors": [
+      "Pei, Jiaming",
+      "Zhong, Kaiyang",
+      "Li, Jinhai",
+      "Xu, Jiyuan",
+      "Wang, Xinyi"
+    ],
+    "title": "ECNN: evaluating a cluster-neural network model for city innovation capability"
+  },
+  {
+    "entrykey": "yu2022multi",
+    "entrytype": "article",
+    "addendum": "IF 8.1, 一区TOP",
+    "publisher": "Elsevier",
+    "year": "2022",
+    "pages": "102868",
+    "number": "2",
+    "volume": "59",
+    "journal": "Information Processing & Management",
+    "author": "Yu, Zhi and Pei, Jiaming and Zhu, Mingpeng and Zhang, Jiwei and Li, Jinhai",
+    "authors": [
+      "Yu, Zhi",
+      "Pei, Jiaming",
+      "Zhu, Mingpeng",
+      "Zhang, Jiwei",
+      "Li, Jinhai"
+    ],
+    "title": "Multi-attribute adaptive aggregation transformer for vehicle re-identification"
+  },
+  {
+    "entrykey": "pei2022pac",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper, 一区TOP, IF 9.9",
+    "publisher": "IEEE",
+    "year": "2022",
+    "pages": "1251–1260",
+    "number": "1",
+    "volume": "24",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "author": "Pei, Jiaming and Zhong, Kaiyang and Li, Jinhai and Yu, Zhi",
+    "authors": [
+      "Pei, Jiaming",
+      "Zhong, Kaiyang",
+      "Li, Jinhai",
+      "Yu, Zhi"
+    ],
+    "title": "PAC: partial area clustering for re-adjusting the layout of traffic stations in city’s public transport"
+  },
+  {
+    "entrykey": "xu2022pca",
+    "entrytype": "inproceedings",
+    "addendum": "CCF A",
+    "year": "2022",
+    "pages": "31–36",
+    "booktitle": "Proceedings of the 5th International ACM Mobicom Workshop on Drone Assisted Wireless Communications for 5G and Beyond",
+    "author": "Xu, Lingwei and Duan, Yanyan and Pei, Jiaming and Lin, Wenzhong and Wang, Lukun and Mumtaz, Shahid",
+    "authors": [
+      "Xu, Lingwei",
+      "Duan, Yanyan",
+      "Pei, Jiaming",
+      "Lin, Wenzhong",
+      "Wang, Lukun",
+      "Mumtaz, Shahid"
+    ],
+    "title": "PCA-RNN-based intelligent mobile drone spectrum sensing algorithm"
+  },
+  {
+    "entrykey": "pei2022scene",
+    "entrytype": "article",
+    "publisher": "ACM",
+    "year": "2022",
+    "journal": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "author": "Pei, Jiaming and Zhong, Kaiyang and Yu, Zhi and Wang, Lukun and Lakshmanna, Kuruva",
+    "authors": [
+      "Pei, Jiaming",
+      "Zhong, Kaiyang",
+      "Yu, Zhi",
+      "Wang, Lukun",
+      "Lakshmanna, Kuruva"
+    ],
+    "title": "Scene graph semantic inference for image and text matching"
+  },
+  {
+    "entrykey": "pei2022tkagfl",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper, 二区TOP",
+    "publisher": "IEEE",
+    "year": "2022",
+    "journal": "IEEE Transactions on Network Science and Engineering",
+    "author": "Pei, Jiaming and Yu, Zhi and Li, Jinhai and Jan, Mian Ahmad and Lakshmanna, Kuruva",
+    "authors": [
+      "Pei, Jiaming",
+      "Yu, Zhi",
+      "Li, Jinhai",
+      "Jan, Mian Ahmad",
+      "Lakshmanna, Kuruva"
+    ],
+    "title": "TKAGFL: A Federated Communication Framework Under Data heterogeneity"
+  },
+  {
+    "entrykey": "pei2021recommendation",
+    "entrytype": "inproceedings",
+    "organization": "IEEE",
+    "year": "2021",
+    "pages": "2553–2556",
+    "booktitle": "2021 IEEE 5th advanced information technology, electronic and automation control conference (IAEAC)",
+    "author": "Pei, Jiaming and Li, Jinhai and Zhou, Bin and Gao, Mingyue and Dat, Quy and others",
+    "authors": [
+      "Pei, Jiaming",
+      "Li, Jinhai",
+      "Zhou, Bin",
+      "Gao, Mingyue",
+      "Dat, Quy",
+      "others"
+    ],
+    "title": "A recommendation algorithm about choosing travel means for urban residents in intelligent traffic system"
+  },
+  {
+    "entrykey": "zhong2021multiobjective",
+    "entrytype": "article",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "Hindawi",
+    "year": "2021",
+    "pages": "5552626",
+    "number": "1",
+    "volume": "2021",
+    "journal": "Wireless communications and mobile computing",
+    "author": "Zhong, Kaiyang and Wang, Ping and Pei, Jiaming and Xu, Jiyuan and Han, Zonglin and Xu, Jiawen",
+    "authors": [
+      "Zhong, Kaiyang",
+      "Wang, Ping",
+      "Pei, Jiaming",
+      "Xu, Jiyuan",
+      "Han, Zonglin",
+      "Xu, Jiawen"
+    ],
+    "title": "Multiobjective optimization regarding vehicles and power grids"
+  },
+  {
+    "entrykey": "li2021research",
+    "entrytype": "article",
+    "publisher": "Hindawi",
+    "year": "2021",
+    "pages": "4011190",
+    "number": "1",
+    "volume": "2021",
+    "journal": "Scientific Programming",
+    "author": "Li, Jinhai and Ma, Yunlei and Zhan, Xiang and Pei, Jiaming",
+    "authors": [
+      "Li, Jinhai",
+      "Ma, Yunlei",
+      "Zhan, Xiang",
+      "Pei, Jiaming"
+    ],
+    "title": "Research of contextual semantic reasoning model based on domain ontology"
+  },
+  {
+    "entrykey": "zhong2021super",
+    "entrytype": "article",
+    "addendum": "ESI Highly Cited Paper, IF 8.1, 一区TOP",
+    "keywords": [
+      "corresp"
+    ],
+    "publisher": "Elsevier",
+    "year": "2021",
+    "pages": "102728",
+    "number": "6",
+    "volume": "58",
+    "journal": "Information Processing & Management",
+    "author": "Zhong, Kaiyang and Wang, Yifan and Pei, Jiaming and Tang, Shimeng and Han, Zonglin",
+    "authors": [
+      "Zhong, Kaiyang",
+      "Wang, Yifan",
+      "Pei, Jiaming",
+      "Tang, Shimeng",
+      "Han, Zonglin"
+    ],
+    "title": "Super efficiency SBM-DEA and neural network for performance evaluation"
+  },
+  {
+    "entrykey": "pei2020big",
+    "entrytype": "inproceedings",
+    "organization": "WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA",
+    "year": "2020",
+    "pages": "429–430",
+    "volume": "126",
+    "booktitle": "Basic & Clinical Pharmacology & Toxicology",
+    "author": "Pei, Jiaming",
+    "authors": [
+      "Pei, Jiaming"
+    ],
+    "title": "Big data mining in the control of epidemic"
+  },
+  {
+    "entrykey": "li2020research",
+    "entrytype": "inproceedings",
+    "organization": "IEEE",
+    "year": "2020",
+    "pages": "14–18",
+    "booktitle": "2020 IEEE 3rd International Conference on Computer and Communication Engineering Technology (CCET)",
+    "author": "Li, Jinhai and Pan, Feiyu and Zhou, Bin and Pei, Jiaming",
+    "authors": [
+      "Li, Jinhai",
+      "Pan, Feiyu",
+      "Zhou, Bin",
+      "Pei, Jiaming"
+    ],
+    "title": "Research on the early warning of college online public opinion under the big data environment"
+  },
+  {
+    "entrykey": "pei2019solving",
+    "entrytype": "inproceedings",
+    "organization": "IEEE",
+    "year": "2019",
+    "pages": "534–538",
+    "booktitle": "2019 2nd international conference on information systems and computer aided education (ICISCAE)",
+    "author": "Pei, Jiaming",
+    "authors": [
+      "Pei, Jiaming"
+    ],
+    "title": "Solving the problem of charging and discharging of electric vehicles based on particle swarm algorithm"
+  }
+]

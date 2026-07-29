@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Jiaming Pei | Academic Homepage</title>
+
+  <meta
+    name="description"
+    content="Academic homepage of Jiaming Pei, PhD in Computer Science at The University of Sydney."
+  >
+
+  <style>
+    /* =========================================================
+       Global settings
+       ========================================================= */
+
+    :root {
+      --primary-color: #1f4e79;
+      --primary-dark: #153653;
+      --text-color: #2b2b2b;
+      --secondary-text: #666666;
+      --light-text: #888888;
+      --border-color: #dddddd;
+      --light-background: #f7f8fa;
+      --white: #ffffff;
+      --max-width: 1080px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background: var(--white);
+      color: var(--text-color);
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Arial,
+        Helvetica,
+        sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    a {
+      color: var(--primary-color);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    .container {
+      width: min(var(--max-width), calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+
+
+
+    /* =========================================================
+       Navigation
+       ========================================================= */
+
+    .site-header {
+      border-bottom: 1px solid var(--border-color);
+      background: rgba(255, 255, 255, 0.97);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    .navbar {
+      min-height: 68px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 30px;
+    }
+
+    .site-name {
+      color: var(--text-color);
+      font-size: 21px;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+      white-space: nowrap;
+    }
+
+    .site-name:hover {
+      color: var(--primary-color);
+      text-decoration: none;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+    }
+
+    .nav-links a {
+      color: #444444;
+      font-size: 15px;
+      font-weight: 500;
+      padding: 22px 0 19px;
+      border-bottom: 3px solid transparent;
+    }
+
+    .nav-links a:hover {
+      color: var(--primary-color);
+      text-decoration: none;
+    }
+
+    .nav-links a.active {
+      color: var(--primary-color);
+      border-bottom-color: var(--primary-color);
+    }
+
+    .menu-button {
+      display: none;
+      border: 0;
+      background: transparent;
+      color: var(--text-color);
+      font-size: 26px;
+      cursor: pointer;
+      padding: 8px;
+    }
+
+    /* =========================================================
+       Welcome
+       ========================================================= */
+
+    .welcome {
+      padding: 64px 0 36px;
+    }
+
+    .welcome h1 {
+      margin: 0 0 14px;
+      color: var(--text-color);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(34px, 5vw, 49px);
+      font-weight: 600;
+      line-height: 1.25;
+    }
+
+    .welcome p {
+      max-width: 780px;
+      margin: 0;
+      color: var(--secondary-text);
+      font-size: 19px;
+    }
+
+    /* =========================================================
+       Profile
+       ========================================================= */
+
+    .profile-section {
+      padding: 28px 0 55px;
+    }
+
+    .profile-layout {
+      display: grid;
+      grid-template-columns: 230px minmax(0, 1fr);
+      gap: 46px;
+      align-items: start;
+    }
+
+.profile-photo {
+
+  width: 230px;
+
+  aspect-ratio: 4 / 5;
+
+  object-fit: cover;
+
+  object-position: center;
+
+  border-radius: 0;
+
+}
+.profile-photo img {
+
+    width: 230px;
+
+    height: 288px;
+
+    object-fit: cover;
+
+    object-position: center;
+
+}
+
+
+    .profile-content h2 {
+      margin: -5px 0 4px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 34px;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .profile-title {
+      margin: 0 0 3px;
+      color: #444444;
+      font-size: 17px;
+      font-weight: 600;
+    }
+
+    .profile-affiliation {
+      margin: 0 0 18px;
+      color: var(--secondary-text);
+    }
+
+    .contact-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 18px;
+      margin: 0 0 25px;
+    }
+
+    .contact-links a {
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .biography {
+      margin: 0 0 16px;
+      text-align: justify;
+    }
+
+    .research-interests {
+      margin: 18px 0 0;
+      padding-left: 20px;
+    }
+
+    .research-interests li {
+      margin-bottom: 5px;
+    }
+
+    /* =========================================================
+       Sections
+       ========================================================= */
+
+    .section {
+      padding: 48px 0;
+      border-top: 1px solid var(--border-color);
+    }
+
+    .section.light {
+      background: var(--light-background);
+    }
+
+    .section-header {
+      margin-bottom: 30px;
+    }
+
+    .section-title {
+      margin: 0 0 8px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 30px;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    .section-description {
+      margin: 0;
+      color: var(--secondary-text);
+    }
+
+    /* =========================================================
+       Education and employment
+       ========================================================= */
+
+    .experience-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 50px;
+    }
+
+    .experience-column h3 {
+      margin: 0 0 22px;
+      color: var(--primary-dark);
+      font-size: 21px;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 28px;
+      padding-left: 22px;
+      border-left: 2px solid #d6dce2;
+    }
+
+    .timeline-item:last-child {
+      margin-bottom: 0;
+    }
+
+    .timeline-date {
+      margin-bottom: 3px;
+      color: var(--primary-color);
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .timeline-item h4 {
+      margin: 0 0 3px;
+      font-size: 17px;
+      font-weight: 650;
+      line-height: 1.4;
+    }
+
+    .timeline-organization {
+      margin: 0 0 5px;
+      color: #555555;
+    }
+
+    .timeline-detail {
+      margin: 0;
+      color: var(--secondary-text);
+      font-size: 15px;
+    }
+
+    /* =========================================================
+       News
+       ========================================================= */
+
+/* =========================
+   News Section
+========================= */
+
+.news-list {
+
+    max-height: 560px;
+
+    overflow-y: auto;
+
+    margin: 0;
+
+   padding-left: 0;
+    list-style: none;
+
+}
+
+
+
+/* News item spacing */
+
+.news-item {
+
+    margin-bottom: 22px;
+
+    line-height: 1.7;
+
+}
+
+
+
+/* Date */
+
+.news-date {
+
+    font-size: 18px;
+
+    color: #777;
+
+    font-weight: 600;
+
+    margin-bottom: 5px;
+
+}
+
+
+
+/* Content */
+
+.news-content {
+
+    font-size: 16px;
+
+    color: #333;
+
+    margin: 0;
+
+    line-height: 1.7;
+
+}
+
+
+
+/* Links */
+
+.news-content a {
+
+    color: #1f4e79;
+
+    text-decoration: none;
+
+    font-weight: 700;
+
+}
+
+
+
+.news-content a:hover {
+
+    text-decoration: underline;
+
+}
+
+
+
+/* =========================
+   Scroll bar
+========================= */
+
+
+/* Chrome / Edge / Safari */
+
+.news-list::-webkit-scrollbar {
+
+    width: 7px;
+
+}
+
+
+.news-list::-webkit-scrollbar-track {
+
+    background: #f5f5f5;
+
+}
+
+
+
+.news-list::-webkit-scrollbar-thumb {
+
+    background: #b5b5b5;
+
+    border-radius: 5px;
+
+}
+
+
+.news-list::-webkit-scrollbar-thumb:hover {
+
+    background: #888;
+
+}
+
+
+
+/* =========================
+   Important News Highlight
+========================= */
+
+
+.news-important {
+
+    color: red;
+
+    font-weight: bold;
+
+}
+    /* =========================================================
+       Recruitment
+       ========================================================= */
+
+    .recruitment-box {
+      padding: 30px 34px;
+      border-left: 4px solid var(--primary-color);
+      background: var(--light-background);
+    }
+
+    .recruitment-box h3 {
+      margin: 0 0 12px;
+      color: var(--primary-dark);
+      font-size: 22px;
+    }
+
+    .recruitment-box p {
+      margin: 0 0 13px;
+    }
+
+    .recruitment-box p:last-child {
+      margin-bottom: 0;
+    }
+	.profile-membership {
+    color: #333;
+    font-size: 17px;
+    line-height: 1.7;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+    /* =========================================================
+       Footer
+       ========================================================= */
+
+    .site-footer {
+      padding: 28px 0;
+      border-top: 1px solid var(--border-color);
+      color: var(--secondary-text);
+      font-size: 14px;
+      text-align: center;
+    }
+
+.visitor-counter {
+
+    margin-top: 25px;
+
+}
+
+
+.visitor-counter img {
+
+    width: 300px;
+
+}
+
+
+    /* =========================================================
+       Responsive design
+       ========================================================= */
+
+    @media (max-width: 820px) {
+      .navbar {
+        min-height: 62px;
+        flex-wrap: wrap;
+      }
+
+      .menu-button {
+        display: block;
+      }
+
+      .nav-links {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0;
+        padding-bottom: 15px;
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-links a {
+        width: 100%;
+        padding: 10px 0;
+        border-bottom: 0;
+      }
+
+      .nav-links a.active {
+        font-weight: 700;
+      }
+
+      .profile-layout {
+        grid-template-columns: 180px minmax(0, 1fr);
+        gap: 30px;
+      }
+
+      .profile-photo,
+      .photo-placeholder {
+        width: 180px;
+      }
+
+      .experience-grid {
+        grid-template-columns: 1fr;
+        gap: 45px;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .container {
+        width: min(100% - 28px, var(--max-width));
+      }
+
+      .welcome {
+        padding-top: 42px;
+      }
+
+      .profile-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .profile-photo,
+      .photo-placeholder {
+        width: 200px;
+      }
+
+      .profile-content h2 {
+        margin-top: 0;
+      }
+
+      .biography {
+        text-align: left;
+      }
+
+      .news-item {
+        grid-template-columns: 1fr;
+        gap: 2px;
+      }
+
+      .recruitment-box {
+        padding: 24px;
+      }
+    }
+  </style>
+</head>
+
+
+
+
+<body>
+
+  <!-- =======================================================
+       Navigation
+       ======================================================= -->
+
+  <header class="site-header">
+    <div class="container">
+      <nav class="navbar" aria-label="Main navigation">
+
+        <a class="site-name" href="index.html">Jiaming Pei</a>
+
+        <button
+          class="menu-button"
+          id="menuButton"
+          type="button"
+          aria-label="Open navigation menu"
+          aria-expanded="false"
+        >
+          ☰
+        </button>
+
+        <div class="nav-links" id="navLinks">
+          <a class="active" href="index.html">Home</a>
+          <a href="research.html">Research</a>
+          <a href="publications.html">Publications</a>
+          <a href="activities.html">Professional Activities</a>
+        </div>
+
+      </nav>
+    </div>
+  </header>
+
+
+
+
+
+
+
+
+  <main>
+
+    <!-- =====================================================
+         Welcome
+         ===================================================== -->
+
+    <section class="welcome">
+      <div class="container">
+        <h1>Welcome to Jiaming Pei's academic homepage.</h1>
+
+        <p>
+          My research focuses on developing efficient, robust, and trustworthy
+          artificial intelligence systems for transportation, distributed
+          computing, and cyber-physical applications.
+        </p>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         Personal information and biography
+         ===================================================== -->
+
+    <section class="profile-section">
+      <div class="container">
+        <div class="profile-layout">
+
+          <div class="profile-photo">
+            <img src="image/jiaming.png"
+       alt="Jiaming Pei">
+          </div>
+
+          <div class="profile-content">
+            <h2>Dr. Jiaming Pei</h2>
+
+            <p class="profile-title">
+              PhD in Computer Science
+            </p>
+	
+	<p class="profile-membership">
+	FRSA, SFNAAI, Top2% Scientist <br>
+	IEEE, ACM Member
+	</p>
+            <p class="profile-affiliation">
+              School of Computer Science<br>
+              The University of Sydney <br>
+		E-mail: jiamingpei0262@gmail.com, jpei0906@sydney.edu.au
+            </p>
+
+	
+
+
+            <div class="contact-links">
+              <a href="mailto:jiamingpei0262@gmail.com">Email</a>
+
+              <a
+                href="https://scholar.google.com/citations?user=1Tdbr5AAAAAJ"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Google Scholar
+              </a>
+
+              <!-- Replace # with your actual links -->
+              <a href="https://orcid.org/0000-0003-2774-0511" target="_blank" rel="noopener noreferrer">
+                ORCID
+              </a>
+
+              
+
+              <a href="Jiaming-PEI.pdf" target="_blank">
+                Curriculum Vitae
+              </a>
+            </div>
+
+            <p class="biography">
+              I received my PhD in Computer Science from the University of
+              Sydney. My research investigates efficient and dependable
+              artificial intelligence methods for distributed and
+              resource-constrained systems. In particular, I am interested in
+              federated learning, distributed optimization, intelligent
+              transportation systems, robust and trustworthy AI, and
+              neuro-symbolic learning.
+            </p>
+
+            <p class="biography">
+              My work aims to connect fundamental machine learning methods with
+              practical applications in transportation, the Internet of
+              Things, smart cities, autonomous systems, and cyber-physical
+              systems. I am particularly interested in learning under
+              heterogeneous data, constrained communication, limited computing
+              resources, and dynamically changing environments.
+            </p>
+
+            <strong>Research Interests</strong>
+
+            <ul class="research-interests">
+              <li>Federated and Distributed Learning</li>
+              <li>AI for Transportation and Smart Cities</li>
+              <li>Robust and Trustworthy Artificial Intelligence</li>
+              <li>Distributed Optimization and Edge Intelligence</li>
+              <li>Multi-Agent communication and collaboration</li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         Education and employment
+         ===================================================== -->
+
+    <section class="section light">
+      <div class="container">
+
+        <div class="section-header">
+          <h2 class="section-title">Education and Experience</h2>
+
+        </div>
+
+        <div class="experience-grid">
+
+          <div class="experience-column">
+            <h3>Education</h3>
+
+            <article class="timeline-item">
+              <div class="timeline-date">2022–2026</div>
+
+              <h4>PhD in Computer Science</h4>
+
+              <p class="timeline-organization">
+                The University of Sydney, Australia
+              </p>
+
+              <p class="timeline-detail">
+                Thesis: 
+		<a href="https://hdl.handle.net/2123/35063" target="_blank">
+		Towards High-Efficient Federated Learning Systems </a>
+              </p>
+
+              <p class="timeline-detail">
+                Supervisors: <a href="https://profiles.sydney.edu.au/weiwilson.li" target="_blank"> Dr. Wei Li </a> and   <a href=" https://profiles.sydney.edu.au/albert.zomaya" target="_blank"> Prof. Albert Y. Zomaya</a>
+              </p>
+            </article>
+
+            
+            <article class="timeline-item">
+              <div class="timeline-date">2017–2021</div>
+
+              <h4>Bachelor in Information system and Information Management</h4>
+
+              <p class="timeline-organization">
+                Taizhou University, China
+              </p>
+
+              <p class="timeline-detail">
+                Graduation thesis: Analysis of Intelligent
+                Optimization Algorithm for Urban Public Transportation <span style="color:red;font-weight:bold;">(Outstanding Thesis Award 2021) </span>
+              </p>
+            </article>
+          </div>
+
+          <div class="experience-column">
+            <h3>Professional Experience</h3>
+
+            <!-- Replace or remove entries according to your actual CV -->
+
+            <article class="timeline-item">
+              <div class="timeline-date">2026–Present</div>
+
+              <h4>On the market</h4>
+
+              <p class="timeline-organization">
+                
+              </p>
+
+              <p class="timeline-detail">
+                <span style="color:red;font-weight:bold;">Trying to find some TT-research position</span>
+
+              </p>
+            </article>
+
+            <article class="timeline-item">
+              <div class="timeline-date">2021–2022</div>
+
+              <h4>Visiting Scholar</h4>
+
+              <p class="timeline-organization">
+                Southwestern University of Finance and Economics
+              </p>
+
+              <p class="timeline-detail">
+                
+              </p>
+            </article>
+
+            </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         News
+         ===================================================== -->
+
+   
+<section class="section">
+
+  <div class="container">
+
+    <div class="section-header">
+      <h2 class="section-title">News</h2>
+    </div>
+
+
+    <ul class="news-list">
+
+
+      <li class="news-item">
+
+        <div class="news-date">
+          July 2026
+        </div>
+
+        <p class="news-content">
+
+          My co-author paper, titled
+          "<a href="#"
+             target="_blank"
+             rel="noopener">
+             CARED: Circulant Attention and Reliability-Guided Expert Diffusion for Robust Remote Physiological Signal Reconstruction
+          </a>",
+          was accepted for publication in
+
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020"
+             target="_blank"
+             rel="noopener">
+             IEEE JBHI
+          </a>!
+
+        </p>
+
+      </li>
+
+
+      <li class="news-item">
+
+        <div class="news-date">
+          July 2026
+        </div>
+
+
+        <p class="news-content">
+
+          My co-author paper, titled
+          "<a href="https://doi.org/10.1109/TCE.2026.3712443"
+             target="_blank"
+             rel="noopener">
+             Privacy-Preserving Federated Early Warning of Memory Poisoning for Consumer AI Agents
+          </a>",
+          was accepted for publication in
+
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30"
+             target="_blank"
+             rel="noopener">
+             IEEE Transactions on Consumer Electronics
+          </a>!
+
+        </p>
+
+      </li>
+
+
+
+
+
+      <li class="news-item">
+
+        <div class="news-date">
+          June 2026
+        </div>
+
+
+        <p class="news-content">
+
+          My first-author paper, titled
+          "<a href="https://doi.org/10.1016/j.neucom.2026.134236"
+             target="_blank"
+             rel="noopener">
+             Explainable Federated Clustering via Visual Embedding and Boundary Interpretation
+          </a>",
+          was accepted for publication in
+
+          <a href="https://www.sciencedirect.com/journal/neurocomputing"
+             target="_blank"
+             rel="noopener">
+             Neurocomputing
+          </a>!
+
+        </p>
+
+      </li>
+
+
+
+
+
+      <li class="news-item">
+
+        <div class="news-date">
+          May 2026
+        </div>
+
+
+        <p class="news-content">
+
+          My student paper, titled
+          "<a href="https://ieeexplore.ieee.org/abstract/document/11535419"
+             target="_blank"
+             rel="noopener">
+             CSIF-CD: A Unified Cross-Stage Interactive Feedback Framework for Remote Sensing Image Change Detection
+          </a>",
+          was accepted for publication in
+
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859"
+             target="_blank"
+             rel="noopener">
+             IEEE Geoscience and Remote Sensing Letters
+          </a>!
+
+        </p>
+
+      </li>
+
+
+
+      <li class="news-item">
+        <div class="news-date">
+          April 13, 2026
+        </div>
+        <p class="news-content">
+          <span style="color:red; font-weight:bold;">
+            Congratulations! I received my Ph.D. degree in Computer Science from The University of Sydney!
+          </span>
+        </p>
+
+      </li>
+
+      <li class="news-item">
+        <div class="news-date">
+          March, 2026
+        </div>
+        <p class="news-content">
+                 My first-author paper, titled
+          "<a href="10.1109/TCE.2026.3676046"
+             target="_blank"
+             rel="noopener">
+             A Multi-Stage Neuro-Symbolic Framework for Trustworthy Agentic Intelligence in ICE Systems
+          </a>",
+          was accepted for publication in
+
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30"
+             target="_blank"
+             rel="noopener">
+             IEEE Transactions on Consumer Electronics 
+          </a>!
+        </p>
+      </li>
+
+      <li class="news-item">
+        <div class="news-date">
+          March, 2026
+        </div>
+        <p class="news-content">
+                 My first-author paper, titled
+          "<a href="10.1109/JSAS.2026.3680380"
+             target="_blank"
+             rel="noopener">
+             Generative AI-Native Edge Sensors: Collaborative Data Reconstruction via Lightweight Federated Learning
+          </a>",
+          was accepted for publication in
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10057477"
+             target="_blank"
+             rel="noopener">
+               IEEE Journal of Selected Areas in Sensors </a>!
+        </p>
+      </li>
+
+
+      <li class="news-item">
+        <div class="news-date">
+          March, 2026
+        </div>
+        <p class="news-content">
+                 My first-author paper, titled
+          "<a href="10.1109/TICPS.2026.3678219"
+             target="_blank"
+             rel="noopener">
+             Resource Allocation Using Reinforcement Learning in Industrial Cyber-Physical Systems
+          </a>",
+          was accepted for publication in
+
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9984155"
+             target="_blank"
+             rel="noopener">
+              IEEE Transactions on Industrial Cyber-Physical Systems</a>!
+        </p>
+      </li>
+
+      <li class="news-item">
+        <div class="news-date">
+          March, 2026
+        </div>
+        <p class="news-content">
+                 My first-author paper, titled
+          "<a href="10.1109/JIOT.2026.3670827"
+             target="_blank"
+             rel="noopener">
+             Adaptive Federated Learning for Future IoV-Oriented IoT End-to-End Network Planning
+          </a>",
+          was accepted for publication in
+
+          <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907"
+             target="_blank"
+             rel="noopener">
+               IEEE Internet of Things Journal 
+          </a>!
+        </p>
+      </li>
+
+
+    </ul>
+
+  </div>
+
+</section>
+
+
+
+
+    <!-- =====================================================
+         Recruitment
+         ===================================================== -->
+<!--
+    <section class="section">
+      <div class="container">
+
+        <div class="section-header">
+          <h2 class="section-title">Prospective Students</h2>
+        </div>
+
+        <div class="recruitment-box">
+          <h3>Research Opportunities</h3>
+
+          <p>
+            I welcome motivated students and collaborators who are interested
+            in federated learning, distributed artificial intelligence,
+            intelligent transportation systems, trustworthy AI, edge
+            intelligence, and neuro-symbolic learning.
+          </p>
+
+          <p>
+            Prospective students should have a solid background in computer
+            science, artificial intelligence, mathematics, optimization, or a
+            related discipline. Experience with Python, PyTorch, scientific
+            writing, and machine learning experiments is desirable.
+          </p>
+
+          <p>
+            When contacting me, please include your curriculum vitae, academic
+            transcripts, research interests, representative publications or
+            projects, and a brief explanation of how your interests connect
+            with my research.
+          </p>
+
+          <p>
+            Please send enquiries to
+            <a href="mailto:jpei0906@uni.sydney.edu.au">
+              jpei0906@uni.sydney.edu.au
+            </a>.
+          </p>
+        </div>
+
+      </div>
+    </section>
+-->
+
+
+
+
+
+<section class="section">
+
+<div class="container">
+
+<h2 class="section-title">
+Visitor Statistics
+</h2>
+
+
+<div class="visitor-counter">
+
+
+<a href="https://info.flagcounter.com/yKol"
+target="_blank">
+
+<img src="https://s05.flagcounter.com/map/yKol/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+alt="Flag Counter">
+
+</a>
+
+
+</div>
+
+
+</div>
+
+</section>
+
+</section>
+
+  </main>
+
+  <!-- =======================================================
+       Footer
+       ======================================================= -->
+
+  <footer class="site-footer">
+    <div class="container">
+      © <span id="currentYear"></span> Jiaming Pei.
+      Last updated July 2026.
+    </div>
+  </footer>
+
+  <script>
+    /*
+      Mobile navigation
+    */
+
+    const menuButton = document.getElementById("menuButton");
+    const navLinks = document.getElementById("navLinks");
+
+    menuButton.addEventListener("click", function () {
+      const isOpen = navLinks.classList.toggle("open");
+
+      menuButton.setAttribute("aria-expanded", String(isOpen));
+      menuButton.textContent = isOpen ? "×" : "☰";
+    });
+
+    /*
+      Automatically update the copyright year
+    */
+
+    document.getElementById("currentYear").textContent =
+      new Date().getFullYear();
+  </script>
+
+</body>
+</html>
