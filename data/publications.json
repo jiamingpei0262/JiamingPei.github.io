@@ -292,6 +292,27 @@
     "title": "Resource Allocation Using Reinforcement Learning in Industrial Cyber-Physical Systems"
   },
   {
+    "entrykey": "11630606",
+    "entrytype": "article",
+    "doi": "10.1109/MCOMSTD.2026.3714674",
+    "keywords": [
+      "corresp"
+    ],
+    "pages": "1-9",
+    "number": "",
+    "volume": "",
+    "year": "2026",
+    "title": "Secure Semantic Consensus as the Control Plane of Federated Agentic Networks",
+    "journal": "IEEE Communications Standards Magazine",
+    "author": "Bashir, Ali Kashif and Yahya, Khalid and Wu, Haotian and Pei, Jiaming",
+    "authors": [
+      "Bashir, Ali Kashif",
+      "Yahya, Khalid",
+      "Wu, Haotian",
+      "Pei, Jiaming"
+    ]
+  },
+  {
     "entrykey": "wu2026swarm",
     "entrytype": "article",
     "keywords": [
