@@ -130,6 +130,27 @@
     "title": "Edge Intelligence-Driven Low-Altitude IoT via Digital Twin: Requirements, Challenges and Solutions"
   },
   {
+    "entrykey": "11631782",
+    "entrytype": "article",
+    "keywords": [
+      "Modeling;Labeling;Limiting;Learning (artificial intelligence);Pixel;Tuning;IP networks;Hyperspectral imaging;Foundation models;Image classification;HSI Classification;Foundation Model;Transfer;Efficient Adaptation"
+    ],
+    "pages": "1-18",
+    "number": "",
+    "volume": "",
+    "year": "2026",
+    "title": "Efficient Foundation Model Adaptation for Hyperspectral Image Classification under Label Scarce Conditions",
+    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "author": "Kong, Weili and Liu, Baisen and Bi, Xiaojun and Mumtaz, Shahid and Pei, Jiaming",
+    "authors": [
+      "Kong, Weili",
+      "Liu, Baisen",
+      "Bi, Xiaojun",
+      "Mumtaz, Shahid",
+      "Pei, Jiaming"
+    ]
+  },
+  {
     "entrykey": "pei2026explainable",
     "entrytype": "article",
     "addendum": "二区TOP, IF 6.7",
@@ -294,7 +315,6 @@
   {
     "entrykey": "11630606",
     "entrytype": "article",
-    "doi": "10.1109/MCOMSTD.2026.3714674",
     "keywords": [
       "corresp"
     ],
