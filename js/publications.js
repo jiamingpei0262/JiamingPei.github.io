@@ -2,25 +2,30 @@ const selectedOrder = [
 
 "pei2026distributed",
 
-"zhong2021super",
-
-"pei2025f3",
-
-"pei2024review",
-
-"pei2022tkagfl",
-
-"pei2022ecnn",
+"pei2026adaptive",
 
 "pei2025neuro",
 
 "wang2025communication",
 
+"pei2025f3",
+
+"pei2024review",
+"pei2024unveiling",
+"pei2023clustered",
+"pei2022tkagfl",
+
+"pei2022ecnn",
+
+
+
 "pei2022pac",
 
 "pei2024entropy",
 
-"pei2023clustered"
+
+"zhong2021super",
+
 
 ];
 
